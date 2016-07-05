@@ -1,0 +1,22 @@
+{
+  "name": "homebridge-myflowerpower",
+  "version": "0.0.1",
+  "description": "My Flower Power plugin for homebridge: https://github.com/nfarina/homebridge",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JonathanH5/homebridge-myflowerpower"
+  },
+  "bugs": {
+    "url": "https://github.com/JonathanH5/homebridge-myflowerpower/issues"
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "bridge": {
+    "name": "HomeBridge",
+    "username": "CC:22:3D:E3:CE:40",
+    "port": 51826,
+    "pin": "031-45-154"
+  },
+  "description": "HomeBridge My Flower Power Plugin",
+  "accessories": [
+    {
+      "accessory": "FlowerPower",
+      "name": "My Sensor 1"
+    }
+  ]
+}
