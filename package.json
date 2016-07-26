@@ -14,6 +14,8 @@
     "url": "https://github.com/JonathanH5/homebridge-myflowerpower/issues"
   },
   "dependencies": {
+    "request": ">=2.74.0",
+    "time": ">=0.11.4"
   },
   "engines": {
     "node": ">=0.12.0",

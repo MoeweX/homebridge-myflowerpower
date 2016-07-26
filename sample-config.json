@@ -9,7 +9,12 @@
   "accessories": [
     {
       "accessory": "FlowerPower",
-      "name": "My Sensor 1"
+      "name": "Example Name",
+      "location": "asdfj923lkasdf823klajsdflkj",
+      "username": "jonathan@hasenburg.de",
+      "password": "ssdkljqeraskj",
+      "client_id": "Jonathan@Hasenburg.de",
+      "client_secret": "asdlfkjlk313kjqw09dfuadfklj239ajsdfoj092q3jr0qjasd"
     }
   ]
 }
