@@ -12,7 +12,10 @@ Plugin to access [My Flower Power API](http://developer.parrot.com/docs/FlowerPo
 
 Below, find a list of currently supported sensors and the options available to configure them. If a parameter is optional, a standard value is given in square brackets.
 
-## Nothing implemented yet
+* Temperatur Sensor
+* Humidity Sensor
+
+TODO fill in options
 
 # How to contribute
 
