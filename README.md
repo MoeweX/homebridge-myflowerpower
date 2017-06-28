@@ -1,5 +1,7 @@
 # homebridge-myflowerpower
 
+NOTE: It seems like parrot changed their api, so the plugin is not working anymore.
+
 Plugin to access [My Flower Power API](http://developer.parrot.com/docs/FlowerPower/) and publish data using the [HomeBridge Platform](https://github.com/nfarina/homebridge).
 
 # Installation
